@@ -9,4 +9,4 @@ class Duck implements Flyable, Swimmable {
             System.out.println("Duck is swimming. ");
         }
     }
-}
+
